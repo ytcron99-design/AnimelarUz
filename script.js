@@ -21,7 +21,19 @@ const animeDatabase = [
     year: 2019,
     episodes: 44,
     genre: ['action', 'supernatural'],
-    description: 'Tanjiro oilasini o\'ldirgan jinlardan qasos olish uchun jin ovchisi bo\'ladi.'
+    description: 'Tanjiro oilasini o\'ldirgan jinlardan qasos olish uchun jin ovchisi bo\'lad.'
+  },
+    {
+    id: 'demon-slayer Mugen-jō Hen',
+    title: 'Demon Slayer Mugen-jō Hen',
+    titleUz: 'Jinlar Qotili Cheksiz Qala ',
+    image: 'https://4kwallpapers.com/images/walls/thumbs_3t/22988.jpg',
+    banner: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1920',
+    rating: 8.4,
+    year: 2025,
+    episodes: 1,
+    genre: ['action', 'supernatural'],
+    description: 'Demon Slayer Corps a’zolari Muzan Kibutsujini yo‘q qilish uchun qasrga kiradi.'
   },
   {
     id: 'jujutsu-kaisen',
